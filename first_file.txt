@@ -2,8 +2,6 @@ This is my first fle from local and move to remote
 
 
 updated by main
-new features-update here
 
 
 updated by dev
-new feature added
